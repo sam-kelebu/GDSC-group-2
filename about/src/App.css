@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #ca4343;
+}
+.coantainer {
+  padding: 4rem;
+}
+.coantainer image {
+  width: 20%;
+  border-radius: 10%;
+}
+h1 {
+  padding: 5rem;
+  color: aliceblue;
+}
